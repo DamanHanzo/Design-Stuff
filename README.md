@@ -1,3 +1,3 @@
-#Project Design
-*HTML Mockup with CSS
-*Jquery
+# Project Design
+* HTML Mockup with CSS
+* Jquery
